@@ -22,9 +22,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+<div>
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3a5b605c149d486fbed4bce86aa230c2-dc3d5d6c0be378fe-full-play.gif">
-
+</div>
 
 
 ## License
