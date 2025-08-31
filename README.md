@@ -23,7 +23,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<iframe src="https://www.loom.com/embed/3a5b605c149d486fbed4bce86aa230c2?sid=1a500202-d492-414a-bcc9-7beac357ef85" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+<div>
+    <a href="https://www.loom.com/share/3a5b605c149d486fbed4bce86aa230c2">
+      <p>Week 2 - Wordle - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3a5b605c149d486fbed4bce86aa230c2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3a5b605c149d486fbed4bce86aa230c2-dc3d5d6c0be378fe-full-play.gif">
+    </a>
+  </div>
 
 
 ## License
